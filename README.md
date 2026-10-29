@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="voxelfetch" width="320">
-</p>
-
 <h1 align="center">voxelfetch</h1>
 
 <p align="center">
