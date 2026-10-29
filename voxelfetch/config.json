@@ -1,0 +1,39 @@
+{
+  "display": {
+    "separator": ": ",
+    "keyPrefix": "",
+    "keyWidth": 0,
+    "indent": 0,
+    "keyColor": "#e8414b",
+    "titleColor": "#e8414b",
+    "textColor": "#e2e2e2",
+    "separatorColor": "#969696"
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "cursor",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "localip",
+    "battery",
+    "locale",
+    "break",
+    "colors"
+  ]
+}
