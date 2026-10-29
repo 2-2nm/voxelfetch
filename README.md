@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A terminal system fetch with a rotating 3D wireframe model.
+  A terminal system fetch with a rotating ASCII 3D model.
 </p>
 
 ---
